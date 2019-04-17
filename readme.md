@@ -9,3 +9,8 @@ PRs are welcome if you wish to contribute to the reading shelf 🌟
 Or you can fund my works 😁🎈
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rexlow)
+
+
+## Work In Progress
+
+Currently this repository does not have a clean and organized way to distribute the papers. I will try to categorise them by topics or fields when I have the time. PRs are welcome if you can contribute 😁
